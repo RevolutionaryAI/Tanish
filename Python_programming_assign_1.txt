@@ -1,0 +1,29 @@
+#1)
+print("Hello Python")
+
+#2)
+a=18
+b=18
+a+b
+a/b
+
+#3)
+a=int(input("Enter a base: "))
+b=int(input("Enter a height: "))
+Area=float(1/2*a*b)
+print(Area)
+
+
+#4)
+a=5
+b=4
+a,b=b,a
+print(a)
+print(b)
+
+#5)
+import random
+a=random.randint(0,100)
+print(a)
+
+
